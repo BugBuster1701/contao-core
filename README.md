@@ -14,3 +14,8 @@ Release 2.11.13 extended with Hacks from BugBuster
 * 2013-11-24 File: system/modules/frontend/templates/mail_default.xhtml
 * 2013-11-24 File: system/modules/frontend/templates/mail_default.html5
 
+### Remove the wrong "PHP tidy" requirement
+
+* 2013-11-28 File: system/modules/backend/languages/de/tl_settings.php
+* 2013-11-28 File: system/modules/backend/languages/en/tl_settings.php
+ 
